@@ -1,6 +1,10 @@
 To run the application,
 
-please first open your terminal and navigate at the source folder where the pom.xml file is located
+please first open your terminal and navigate to the folder of your choice and run the command:
+git clone https://github.com/juliencauwet/hospital_simulator
+
+navigate to the source folder where the pom.xml file is located
+
 run the command: 
 mvn clean install
 
